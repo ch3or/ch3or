@@ -16,5 +16,5 @@
   </div>
         
   <br>
-  <img width="250" height="250" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Heart_coraz%C3%B3n.svg/220px-Heart_coraz%C3%B3n.svg.png" />
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/kKKywgW/logo-2.png" alt="logo-2" border="0"></a>
 </div>
