@@ -1,6 +1,5 @@
 <div align="center">
   <h1><a href="https://cheor.com.br" target="_blank">Hi my name is Cheor 👋 </h1></a>
-<hr>
   <div>
   <h2>KnowLedge</h2>  
     .
