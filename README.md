@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><a href="https://cheor.com.br" target="_blank">Hi my name is Cheor 👋 </h1></a>
+  <h1><a href="https://youtu.be/dQw4w9WgXcQ" target="_blank">Hi my name is Cheor 👋 </h1></a>
   <div>
   <h2>KnowLedge</h2>  
     .
@@ -14,7 +14,8 @@
 <img width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
     .
   </div>
-        
   <br>
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/kKKywgW/logo-2.png" alt="logo-2" border="0"></a>
+  <hr>
+  <br>
+<img src="https://i.ibb.co/kKKywgW/logo-2.png" border="0">
 </div>
